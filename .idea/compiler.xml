@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03-xml" />
+        <module name="07_EL" />
+        <module name="06-Servlet2" />
+        <module name="05_Servlet1" />
+        <module name="04_Tomcat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="03-xml" target="1.5" />
+      <module name="04_Tomcat" target="1.5" />
+      <module name="05_Servlet1" target="1.7" />
+      <module name="06-Servlet2" target="1.7" />
+      <module name="07_EL" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

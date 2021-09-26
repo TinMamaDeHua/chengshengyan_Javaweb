@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03-xml/03-xml.iml" filepath="$PROJECT_DIR$/03-xml/03-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Tomcat/04_Tomcat.iml" filepath="$PROJECT_DIR$/04_Tomcat/04_Tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Servlet1/05_Servlet1.iml" filepath="$PROJECT_DIR$/05_Servlet1/05_Servlet1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Servlet2/06-Servlet2.iml" filepath="$PROJECT_DIR$/06-Servlet2/06-Servlet2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_EL/07_EL.iml" filepath="$PROJECT_DIR$/07_EL/07_EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/程圣严Javaweb.iml" filepath="$PROJECT_DIR$/.idea/程圣严Javaweb.iml" />
+    </modules>
+  </component>
+</project>
